@@ -146,9 +146,9 @@ IV.	Respect intellectual property-refrain from using unauthorized software or vi
 V.	Transparency-communicates openly about the software capabilities and limitations, especially regarding data usage and privacy’
 VI.	Seek feedback-encourage feedback from diverse perspective to identify and address any ethical concerns in the software development process.
 
-REFERENCES
+REFERENCES.
 THE MYTHICAL MAN MONTH BY FREDRICKP.BROOKS JR.
-CLEAN CODE BY ROBERT C. MARTIN
+CLEAN CODE BY ROBERT C. MARTIN.
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
