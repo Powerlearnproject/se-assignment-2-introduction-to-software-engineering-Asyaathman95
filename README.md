@@ -12,6 +12,7 @@ It is a branch of computer science that deals with the design, development, test
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 It is a structured approach to developing software, focusing on the design, development and maintenance of reliable and efficient software systems.
+
  Main differences between software engineering and traditional programming lies in the scale and approach.
 Traditional programming often involves writing code to solve a specific problem without a comprehensive plan or consideration for long term maintenance and scalability. On the other hand, software engineering encompasses a more systematic and discipline approach to software development, considering the entire software life cycle, including requirement gathering, design, testing, deployment and maintenance
 
